@@ -1,0 +1,6 @@
+[submodule "projets/realEstateAdsWebsite"]
+	path = projets/realEstateAdsWebsite
+	url = https://github.com/theoleben/realEstateAdsWebsite.git
+[submodule "projets/gameTournamentManagement"]
+	path = projets/gameTournamentManagement
+	url = https://github.com/theoleben/gameTournamentManagement.git
